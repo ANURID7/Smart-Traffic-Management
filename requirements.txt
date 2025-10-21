@@ -6,3 +6,4 @@ scipy
 easyocr
 filterpy
 Pillow
+plotly==5.18.0
