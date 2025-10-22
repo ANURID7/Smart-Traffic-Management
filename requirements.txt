@@ -1,10 +1,11 @@
 ultralytics
 pandas
 opencv-python-headless==4.8.1.78
-numpy
+numpy==1.25.2
 scipy
 easyocr
 filterpy
 Pillow
 plotly==5.18.0
+
 
